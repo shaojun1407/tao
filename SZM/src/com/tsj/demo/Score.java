@@ -2,6 +2,8 @@ package com.tsj.demo;
 
 import java.util.Scanner;
 
+import com.sun.org.apache.xerces.internal.util.SynchronizedSymbolTable;
+
 public class Score {
 	public static void main(String[] args) {
 		/*
@@ -35,11 +37,39 @@ public class Score {
 		} while (i<=100);
 		*/
 		
-		int i;
+		/*int i;
 		for (i=1;i<=100;i++) {
 			System.out.println("第"+i+"遍写    好好学习，天天向上！");
 		}
-			
+		*/
+		/*int sum=0;
+		 Scanner input =new Scanner(System.in);
+		 for (int i=1;i<5;i++) {
+			 System.out.println("请输入5门课的第"+i+"门课程成绩：");
+			 sum +=input.nextInt();
+		 }
+			System.out.println("5门课程的总和："+sum);
+			int avg =sum/5;
+			System.out.println("5门课程的平均分："+avg);*/
+		
+		
+		
+		
+		
+		/*final int SUM=6;
+		for (int i=0,j=SUM;i<=SUM;i++,j--) {
+			System.out.println(i+"+"+j+"="+(i+j));
+		}*/
+		
+		
+		
+		for (int i = 0; i <= 3; i++) {	
+			System.out.print("*");
+			for (int j = 0; j <= 7; j++) {
+				
+				System.out.print("*");
+		}
+		System.out.println();
+		}
 	}
-
 }

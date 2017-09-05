@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="lib" path="D:/eclipse/lombok1.jar/log4j-1.2.17.jar"/>
-	<classpathentry kind="lib" path="D:/eclipse/lombok1.jar/lombok.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/Java6/eclipse/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="D:/Java6/eclipse/lombok.jar" sourcepath="C:/Users/ADMINI~1/AppData/Local/Temp/.org.sf.feeling.decompiler1503914109706/source/lombok-1.16.18-sources.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

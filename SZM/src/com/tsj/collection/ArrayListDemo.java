@@ -1,9 +1,14 @@
 package com.tsj.collection;
 
+import java.util.HashMap;
+import java.util.Map;
+
 public class ArrayListDemo {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		//使用Map 接口
+		Map contries =new HashMap();
+		
 
 	}
 

@@ -2,7 +2,12 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+<<<<<<< HEAD
 	<classpathentry kind="lib" path="D:/eclipse/lombok1.jar/log4j-1.2.17.jar"/>
 	<classpathentry kind="lib" path="D:/eclipse/lombok1.jar/lombok.jar" sourcepath="C:/Users/lenovo/AppData/Local/Temp/.org.sf.feeling.decompiler1504789586060/source/lombok-1.16.18-sources.jar"/>
+=======
+	<classpathentry kind="lib" path="D:/peixun/Java6/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="D:/peixun/Java6/lombok.jar"/>
+>>>>>>> branch 'master' of https://github.com/shaojun1407/tao.git
 	<classpathentry kind="output" path="bin"/>
 </classpath>
